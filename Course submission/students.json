@@ -1,0 +1,78 @@
+{
+    "students": [
+        {
+            "name": "Ben",
+            "last name": "Merigen",
+            "email": "Ben.Merigen@e.Braude.ac.il",
+            "courses": [
+                "Anan",
+                "Kriya",
+                "Comp",
+                "Web"
+            ],
+            "link": "https://www.techtarget.com/whatis/definition/algorithm?amp=1"
+        },
+        {
+            "name": "Rom",
+            "last name": "Harel",
+            "email": "Rom.Harel@e.Braude.ac.il",
+            "courses": [
+                "Anan",
+                "Kriya",
+                "Comp",
+                "Web"
+            ],
+            "link": "https://www.oracle.com/il/artificial-intelligence/what-is-ai/",
+            "tv": "naruto"
+        },
+        {
+            "name": "Daniel",
+            "last name": "Maman",
+            "email": "Daniel.Maman@e.Braude.ac.il",
+            "courses": [
+                "Anan",
+                "Kriya",
+                "Comp",
+                "Web"
+            ],
+            "link": "https://m.sport5.co.il",
+            "tv": "pokimon"
+        },
+        {
+            "name": "Itai",
+            "last name": "Benjamin",
+            "email": "Itay.Bejamin@e.Braude.ac.il",
+            "courses": [
+                "Anan",
+                "Kriya",
+                "Comp",
+                "Web"
+            ],
+            "link": "https://kids.nationalgeographic.com/geography/countries/article/brazil"
+        },
+        {
+            "name": "Nevo",
+            "last name": "Gottlieb",
+            "email": "Nevo.Gottlib@e.Braude.ac.il",
+            "courses": [
+                "Anan",
+                "Kriya",
+                "Comp",
+                "Web"
+            ],
+            "link": "https://m.youtube.com"
+        },
+        {
+            "name": "Raz",
+            "last name": "Kassel",
+            "email": "Raz.Kassel@e.Braude.ac.il",
+            "courses": [
+                "Anan",
+                "Kriya",
+                "Comp",
+                "Web"
+            ],
+            "link": "https://www.lametayel.co.il"
+        }
+    ]
+}
